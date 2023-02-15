@@ -1,0 +1,377 @@
+﻿/* latin-ext */
+@font-face {
+	font-family: 'Blinker';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url(../fonts/blinker/cIf9MaFatEE-VTaP9CChYVkH.woff2) format('woff2');
+	unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+	font-family: 'Blinker';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url(../fonts/blinker/cIf9MaFatEE-VTaP9C6hYQ.woff2) format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* hebrew */
+@font-face {
+	font-family: 'Miriam Libre';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url(../fonts/miriam-libre/DdT-798HsHwubBAqfkcBTL_X3LbrQMq6z-Y.woff2) format('woff2');
+	unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* latin-ext */
+@font-face {
+	font-family: 'Miriam Libre';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url(../fonts/miriam-libre/DdT-798HsHwubBAqfkcBTL_X3LbrTMq6z-Y.woff2) format('woff2');
+	unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+	font-family: 'Miriam Libre';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url(../fonts/miriam-libre/DdT-798HsHwubBAqfkcBTL_X3LbrQsq6.woff2) format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+	font-family: 'Noto Sans Mono';
+	font-style: normal;
+	font-weight: 400;
+	font-stretch: 100%;
+	font-display: swap;
+	src: url(../fonts/noto-sans-mono/BngrUXNETWXI6LwhGYvaxZikqZqK6fBq6kPvUce2oAZcdthSBUsYck4-_FNJ09DdVXQQ.woff2) format('woff2');
+	unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+	font-family: 'Noto Sans Mono';
+	font-style: normal;
+	font-weight: 400;
+	font-stretch: 100%;
+	font-display: swap;
+	src: url(../fonts/noto-sans-mono/BngrUXNETWXI6LwhGYvaxZikqZqK6fBq6kPvUce2oAZcdthSBUsYck4-_FNJ09ndVXQQ.woff2) format('woff2');
+	unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+	font-family: 'Noto Sans Mono';
+	font-style: normal;
+	font-weight: 400;
+	font-stretch: 100%;
+	font-display: swap;
+	src: url(../fonts/noto-sans-mono/BngrUXNETWXI6LwhGYvaxZikqZqK6fBq6kPvUce2oAZcdthSBUsYck4-_FNJ09HdVXQQ.woff2) format('woff2');
+	unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+	font-family: 'Noto Sans Mono';
+	font-style: normal;
+	font-weight: 400;
+	font-stretch: 100%;
+	font-display: swap;
+	src: url(../fonts/noto-sans-mono/BngrUXNETWXI6LwhGYvaxZikqZqK6fBq6kPvUce2oAZcdthSBUsYck4-_FNJ097dVXQQ.woff2) format('woff2');
+	unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+	font-family: 'Noto Sans Mono';
+	font-style: normal;
+	font-weight: 400;
+	font-stretch: 100%;
+	font-display: swap;
+	src: url(../fonts/noto-sans-mono/BngrUXNETWXI6LwhGYvaxZikqZqK6fBq6kPvUce2oAZcdthSBUsYck4-_FNJ09LdVXQQ.woff2) format('woff2');
+	unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+	font-family: 'Noto Sans Mono';
+	font-style: normal;
+	font-weight: 400;
+	font-stretch: 100%;
+	font-display: swap;
+	src: url(../fonts/noto-sans-mono/BngrUXNETWXI6LwhGYvaxZikqZqK6fBq6kPvUce2oAZcdthSBUsYck4-_FNJ09PdVXQQ.woff2) format('woff2');
+	unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+	font-family: 'Noto Sans Mono';
+	font-style: normal;
+	font-weight: 400;
+	font-stretch: 100%;
+	font-display: swap;
+	src: url(../fonts/noto-sans-mono/BngrUXNETWXI6LwhGYvaxZikqZqK6fBq6kPvUce2oAZcdthSBUsYck4-_FNJ093dVQ.woff2) format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 300;
+	font-display: swap;
+	src: url(../fonts/rubik/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYiFWkU1Z4Y.woff2) format('woff2');
+	unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+ }
+ /* cyrillic */
+ @font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 300;
+	font-display: swap;
+	src: url(../fonts/rubik/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYiFU0U1Z4Y.woff2) format('woff2');
+	unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+ }
+ /* hebrew */
+ @font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 300;
+	font-display: swap;
+	src: url(../fonts/rubik/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYiFVUU1Z4Y.woff2) format('woff2');
+	unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+ }
+ /* latin-ext */
+ @font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 300;
+	font-display: swap;
+	src: url(../fonts/rubik/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYiFWUU1Z4Y.woff2) format('woff2');
+	unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+ }
+ /* latin */
+ @font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 300;
+	font-display: swap;
+	src: url(../fonts/rubik/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYiFV0U1.woff2) format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+ }
+#bottom-row {
+	font-family: 'Rubik';
+	font-size: 0.9rem;
+	font-weight: 300;
+	margin-top: 1rem;
+	text-align: center;
+}
+#button-column-footer, #button-column-header {
+	text-align: center;
+}
+#button-column-header {
+	margin-top: 1rem;
+}
+#card-header, #card-footer {
+	display: none;
+}
+#contact-us {
+	color: #212529;
+	text-decoration: none;
+	transition: .3s ease;
+}
+#contact-us:hover {
+	color: #005cbe;
+}
+#container-password-output-header, #container-password-output-footer {
+	padding: 0;
+}
+#copy-button-header, #copy-button-footer {
+	margin-left: 1rem;
+}
+#copy-url-button {
+	margin-left: 0.6rem;
+	width: 6.0rem;
+}
+#custom-symbols-option {
+	height: auto;
+	padding: 0.1rem 0.75rem;
+}
+#header-container {
+	font-family: 'miriam libre', sans-serif;
+	margin-bottom: 0.5rem;
+	text-align: center;
+}
+#header-container a {
+	color: inherit;
+	text-decoration: none;
+}
+#info-icon {
+	margin: 0.3rem 0.3rem 0.5rem 0.5rem;
+}
+#main-row {
+	margin-left: 0;
+	margin-right: 0;
+}
+#open-url-button {
+	width: 6.2rem;
+}
+#open-url-button, #copy-url-button {
+	padding-top: 0.1rem;
+}
+#parent-container-password-output-header, #parent-container-password-output-footer {
+	border: none;
+}
+#password-output-header, #password-output-footer {
+	color: #0f00df;
+	height: 43px;
+}
+#password-row-footer {
+	margin-top: 1rem;
+}
+#trustpilot-widget {
+	margin-bottom: 1rem;
+}
+#url {
+	background-color: #ffffff;
+	width: 100%;
+}
+#url, #open-url-button, #copy-url-button {
+	height: 2rem;
+	margin-top: 0.7rem;
+}
+.btn {
+	font-size: 1.1rem;
+}
+.first-child-footer {
+	font-size: 0.9rem;
+	margin-top: 1rem;
+	padding-right: 0.5rem;
+}
+.form-control {
+	font-family: 'noto sans mono', monospace;
+}
+.header {
+	display: inline-block;
+	vertical-align: middle;
+}
+.last-child-footer {
+	border-left: 1px solid #212529;
+	font-size: 0.9rem;
+	padding-left: 0.5rem;
+}
+.middle-child-footer {
+	border-left: 1px solid #212529;
+	font-size: 0.9rem;
+	padding-left: 0.5rem;
+	padding-right: 0.5rem;
+}
+.number-password-text {
+	background: #fff;
+	border: 1px solid #ced4da;
+	border-radius: 0.25rem;
+	box-shadow: none;
+	box-sizing: border-box;
+	color: rgb(48, 48, 48);
+	padding: 0.15rem 0.3rem;
+	width: 3.5rem;
+}
+.number-password-text:hover, .number-password-text:focus, .form-control:hover, .form-control:focus {
+	border-color: #999999;
+	box-shadow: none;
+	outline: #999999;
+}
+.parent-row-footer {
+	font-size: 0;
+}
+.toggle-switchy[data-color='green'] > input:checked:focus + .toggle, .toggle-switchy[data-color='green'] > input:checked:active + .toggle {
+	box-shadow: 0 0 5px 3px rgba(46, 204, 113, 0.50);
+}
+.toggle-switchy[data-color='green'] > input:not(:checked):focus + .toggle, .toggle-switchy[data-color='green'] > input:not(:checked):active + .toggle {
+	box-shadow: 0 0 5px 3px rgba(179, 179, 179, 0.50);
+}
+@media (max-width: 768px) {
+	#generate-button-header, #generate-button-footer, #copy-button-header, #copy-button-footer {
+		width: 7rem;
+	}
+	#logo {
+		margin-right: 1rem;
+		width: 1.7rem;
+	}
+	#url-button-column {
+		margin: auto;
+		padding-left: 0;
+		padding-right: 0;
+	}
+	#url-input-column {
+		padding: 0 15px;
+		width: 100%;
+	}
+	h1 {
+		font-size: 1.5rem;
+	}
+}
+@media (min-width: 768px) {
+	#generate-button-header, #generate-button-footer, #copy-button-header, #copy-button-footer {
+		width: 11.9rem;
+	}
+	#logo {
+		margin-right: 1rem;
+		width: 3rem;
+	}
+	#url-button-column {
+		padding-left: 0;
+		padding-right: 15px;
+		width: 14rem;
+	}
+	#url-input-column {
+		padding: 0 15px;
+		width: calc(100% - 14rem);
+	}
+	.btn:active {
+		background-position: 0 -76px;
+		left: 1px;
+		position: relative;
+		top: 1px;
+	}
+	.highlighted:hover {
+		background-color: #f7f7f7;
+	}
+	h1 {
+		font-size: 2.7rem;
+	}
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+	#url-button-column {
+		margin: auto;
+		padding-left: 0;
+		padding-right: 0;
+	}
+	#url-input-column {
+		padding: 0 15px;
+		width: 100%;
+	}
+}
+body {
+	background-attachment: fixed;
+	background-color: #c4d4e2;
+	background-image: url('../images/bg.png');
+	background-position: left top;
+	background-repeat: no-repeat;
+	font-family: 'blinker', sans-serif;
+	font-size: 1.1rem;
+	margin-left: 0.8em;
+	margin-right: 0.8em;
+	margin-top: 0.8em;
+	min-width: 320px;
+}
+h1 {
+	margin-bottom: 0;
+}
+sup {
+	color: red;
+	font-size: 0.7rem;
+	font-weight: bold;
+	position: relative;
+	top: -0.7rem;
+	vertical-align: baseline;
+}
